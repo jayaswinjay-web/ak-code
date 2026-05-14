@@ -1,5 +1,11 @@
+# Build artifacts
 build/*.obj
 build/*.exe
 build/*.lst
 build/out.txt
 build/nul
+build/akc
+
+# OS
+.DS_Store
+Thumbs.db
