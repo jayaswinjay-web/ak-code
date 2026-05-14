@@ -1,51 +1,23 @@
 <div align="center">
-  <img src="assets/ak-code-banner.svg" width="100%" alt="AK CODE Banner">
-  <br><br>
+  <img src="https://raw.githubusercontent.com/jayaswinjay-web/shared-assets/main/screenshots/ak-code-demo.svg" width="100%" alt="AK CODE Screenshot">
+</div>
 
-  <!-- Badges -->
-  <p>
-    <a href="https://github.com/jayaswinjay-web/ak-code/actions">
-      <img src="https://img.shields.io/github/actions/workflow/status/jayaswinjay-web/ak-code/build.yml?style=flat-square&logo=github&label=Build" alt="Build">
-    </a>
-    <a href="https://github.com/jayaswinjay-web/ak-code">
-      <img src="https://img.shields.io/github/repo-size/jayaswinjay-web/ak-code?style=flat-square&label=Size" alt="Size">
-    </a>
-    <a href="https://github.com/jayaswinjay-web/ak-code/blob/main/LICENSE">
-      <img src="https://img.shields.io/badge/license-MIT-blue?style=flat-square" alt="License">
-    </a>
-    <a href="https://github.com/jayaswinjay-web/ak-code">
-      <img src="https://img.shields.io/badge/platform-linux%20%7C%20windows-teal?style=flat-square" alt="Platform">
-    </a>
-    <img src="https://img.shields.io/badge/bootstrap-x86__64%20NASM-00b894?style=flat-square" alt="Bootstrap">
-    <img src="https://img.shields.io/badge/output-ELF%20%7C%20PE%2FCOFF-7a9bb5?style=flat-square" alt="Output">
-  </p>
+<br>
 
-  <h3>✦ A programming language that reads like a conversation ✦</h3>
-  <p><i>No semicolons. No curly braces. No symbols. Just English.</i></p>
+<div align="center">
 
-  <p>
-    <a href="#-features"><strong>Features</strong></a> •
-    <a href="#-quick-start"><strong>Quick Start</strong></a> •
-    <a href="#-showcase"><strong>Showcase</strong></a> •
-    <a href="#-architecture"><strong>Architecture</strong></a> •
-    <a href="#-roadmap"><strong>Roadmap</strong></a> •
-    <a href="docs/spec/LANGUAGE_SPEC.md"><strong>Language Spec</strong></a> •
-    <a href="docs/spec/STDLIB_API.md"><strong>Stdlib API</strong></a>
-  </p>
+[![License](https://img.shields.io/github/license/jayaswinjay-web/ak-code?style=flat&color=1a8a7a)](LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/jayaswinjay-web/ak-code?style=flat&color=1a8a7a)](https://github.com/jayaswinjay-web/ak-code/commits)
+[![CI](https://github.com/jayaswinjay-web/ak-code/actions/workflows/build.yml/badge.svg)](https://github.com/jayaswinjay-web/ak-code/actions)
+[![Repo Size](https://img.shields.io/github/repo-size/jayaswinjay-web/ak-code?style=flat&color=1a8a7a)](https://github.com/jayaswinjay-web/ak-code)
+[![Stars](https://img.shields.io/github/stars/jayaswinjay-web/ak-code?style=social)](https://github.com/jayaswinjay-web/ak-code)
 
-  <br>
+---
 
-  ```ak
-  show "Hello from AK CODE"
-  let name = ask "What is your name?"
-  show "Nice to meet you," name
+### ⭐ Support This Project — [Star on GitHub](https://github.com/jayaswinjay-web/ak-code) ⭐
 
-  if name is "Aswin" then
-    show "Creator detected! Running in god mode."
-  end
-  ```
+---
 
-  <br>
 </div>
 
 ---
@@ -309,6 +281,15 @@ AK CODE is at an early stage and contributions are welcome! See [CONTRIBUTING.md
 - **Write code** — Fork and submit a PR
 
 ---
+
+## Show Your Support
+
+- ⭐ **Star this repo** — helps others discover it
+- 🐛 **Report issues** — I respond within 24 hours
+- 📬 **Share feedback** — contact@jaytechsoln.in
+- ☕ **Buy me a coffee** — [Sponsor](https://github.com/sponsors/jayaswinjay-web)
+
+Made with ❤️ by [Aswin Jay](https://github.com/Aswinajay) — part of [JAY TECH SOLUTIONS](https://jaytechsoln.in)
 
 ## 📄 License
 
